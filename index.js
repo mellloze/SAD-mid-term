@@ -1,3 +1,4 @@
 const name = "Patris";
-const lName = "Avorque"
-console.log(name, lName);
+const mName = "Secret";
+const lName = "Avorque";
+console.log(name, mName, lName);
