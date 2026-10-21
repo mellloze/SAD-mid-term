@@ -1,2 +1,3 @@
 const name = "Patris";
-console.log();
+const lName = "Avorque"
+console.log(name, lName);
